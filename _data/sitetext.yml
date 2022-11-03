@@ -29,7 +29,7 @@ en: &DEFAULT_EN
         icon: fas fa-bed
       - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
         desc: "Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their decision making."
-        icon: fas fa-hand-holding-medical   
+        icon: fas fa-hand-holding-medical
         
   portfolio:
     title: "About Us"
