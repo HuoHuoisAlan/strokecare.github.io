@@ -21,6 +21,6 @@ Results will be accessible to a range of audiences using interactive visualisati
 
 {:.list-inline}
 - Date: November 2022
-- Client: Explore
-- Category: Graphic Design
+- Client: Healthcare providers
+- Category: Analytics and Decision Making
 
