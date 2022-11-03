@@ -1,18 +1,21 @@
 ---
-title: Project Name
-subtitle: Lorem ipsum dolor sit amet consectetur.
-image: assets/img/portfolio/02-full.jpg
+title: Stroke Analytics Dashboard (SAND)
+subtitle: 
+image: assets/img/portfolio/02-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
-  title: Explore
-  subtitle: Graphic Design
+  title: Stroke Analytics Dashboard
+  subtitle: Data-driven decision making support for health providers.
   thumbnail: assets/img/portfolio/p1-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
+As a complement to a patient-oriented portal, an online dashboard will be developed to facilitate uptake of the 
+project’s findings, serving as an information centre for policymakers, the research community and the wider public.
+
+
 
 {:.list-inline}
-- Date: January 2017
+- Date: November 2022
 - Client: Explore
 - Category: Graphic Design
 
