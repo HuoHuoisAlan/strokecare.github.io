@@ -2,7 +2,7 @@
 title: Personalised patient portal
 subtitle: Access and understand health data in a smart way.
 image: assets/img/portfolio/portal.png
-alt: Shirts on a hanger
+alt: patient portal design and development
 
 caption:
   title: Patient Portal
@@ -11,8 +11,8 @@ caption:
 ---
 Patient portals have received widespread support from policymakers and healthcare organisations as part of the 
 shift towards personalised and digitised healthcare delivery, but significant implementation challenges have been 
-identified. We are designing and developing a patient-centered solution for stroke survivors to report health data, access their personal health records, and understand their health data.
-The use of data-backed decision making can help stroke patients make well-informed choices about actions to take in self-managing their conditions on a daily basis, adapting their long-term care.
+identified. We are designing and developing a patient-centred solution for stroke survivors to report health data, access their health records, and understand their health data.
+Using data-backed decision-making can help stroke patients make well-informed choices about actions to take in self-managing their conditions daily, adapting their long-term care.
 
 
 {:.list-inline}
