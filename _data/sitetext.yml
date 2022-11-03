@@ -14,23 +14,23 @@ en: &DEFAULT_EN
     title: Welcome to Stroke Care Research Project!
     text: Improving the lives of stroke survivors with data
     button: Tell Me More
-    buttonlink: "#services"
+    buttonlink: "#Stroke"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
-    section: services
+    title: "Stroke"
+    text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
+    section: stroke
     list:
-      - title: "E-Commerce"
+      - title: "Stroke"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
       - title: "Responsive Design"
         desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
+        icon: fa-solid fa-bed
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
-
+        icon: fa-solid fa-hand-holding-medical   
+        
   portfolio:
     title: "Portfolio"
     text: "Lorem ipsum dolor sit amet consectetur."
