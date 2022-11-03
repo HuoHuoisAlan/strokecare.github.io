@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "100,000 people have strokes each year in the UK.  The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years."
         icon: fas fa-bed
       - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
-        desc: "[ClickMe](https://strokecare.uk/404)Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their decision making."
+        desc: "[ClickMe](https://strokecare.uk/myTeam)Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their decision making."
         icon: fas fa-hand-holding-heart
         
   portfolio:
