@@ -13,7 +13,7 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Stroke Care Research Project!
     text: Improving the lives of stroke survivors with data
-    button: Tell Me More
+    button: [TELL ME MORE](https://strokecare.uk/404)
     buttonlink: "#services"
 
   services:
