@@ -24,7 +24,7 @@ en: &DEFAULT_EN
       - title: "[Leading Cause of Death](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)"
         desc: "Stroke is a leading cause of death and disability in the UK"
         icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
-      - title: "Patients"
+      - title: "[Growing Patients](https://www.stroke.org.uk/what-is-stroke/stroke-statistics)"
         desc: "100,000 people have strokes each year in the UK"
         icon: fa-solid fa-bed
       - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
