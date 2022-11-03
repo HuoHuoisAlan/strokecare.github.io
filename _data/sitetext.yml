@@ -32,7 +32,7 @@ en: &DEFAULT_EN
         icon: fas fa-hand-holding-heart
         
   portfolio:
-    title: "About Us"
+    title: "Research"
     text: "Unlocking the potential of data - reshaping health and care for stroke survivors with data. We are committed to providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies."
     section: portfolio
     closebutton: "Close Project"
