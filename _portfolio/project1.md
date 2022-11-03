@@ -1,13 +1,13 @@
 ---
 title: Personalised patient portal
 subtitle: Access and understand health data in a smart way.
-image: assets/img/portfolio/portal.png
+image: assets/img/portfolio/p1-full.png
 alt: patient portal design and development
 
 caption:
   title: Patient Portal
   subtitle: Personlised patient portal for improving stroke survivor outcomes.
-  thumbnail: assets/img/portfolio/p2-thumbnail.jpg
+  thumbnail: assets/img/portfolio/p1-thumbnail.jpg
 ---
 Patient portals have received widespread support from policymakers and healthcare organisations as part of the 
 shift towards personalised and digitised healthcare delivery, but significant implementation challenges have been 

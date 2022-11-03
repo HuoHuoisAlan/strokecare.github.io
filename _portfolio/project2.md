@@ -1,13 +1,13 @@
 ---
 title: Stroke Analytics Dashboard
 subtitle: data-driven decision making in healthcare.
-image: assets/img/portfolio/02-thumbnail.jpg
+image: assets/img/portfolio/p2-full.jpg
 alt: analytics dashboard for data-driven decision making
 
 caption:
   title: Analytics Dashboard
   subtitle: Data-driven decision making support for health providers.
-  thumbnail: assets/img/portfolio/p1-thumbnail.jpg
+  thumbnail: assets/img/portfolio/p2-thumbnail.jpg
 ---
 
 Informed by the data needs of the wide range of stakeholders, an online dashboard will be developed to facilitate the uptake of the 
