@@ -13,11 +13,11 @@ en: &DEFAULT_EN
   header:
     title: Welcome to Stroke Care Research Project!
     text: Improving the lives of stroke survivors with data
-    button: [TELL ME MORE](https://strokecare.uk/404)
+    button: TELL ME MORE
     buttonlink: "#services"
 
   services:
-    title: "Stroke is the fourth leading cause of death in the UK"
+    title: "[STROKE](https://strokecare.uk/404) is the fourth leading cause of death in the UK"
     text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
     section: services
     list:
