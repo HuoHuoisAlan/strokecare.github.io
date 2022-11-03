@@ -14,12 +14,12 @@ en: &DEFAULT_EN
     title: Welcome to Stroke Care Research Project!
     text: Improving the lives of stroke survivors with data
     button: Tell Me More
-    buttonlink: "#stroke"
+    buttonlink: "#services"
 
-  stroke:
+  services:
     title: "Stroke is the fourth leading cause of death in the UK"
     text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
-    section: stroke
+    section: services
     list:
       - title: "[Leading Cause of Death](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)"
         desc: "Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years."
