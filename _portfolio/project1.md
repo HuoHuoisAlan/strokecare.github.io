@@ -1,12 +1,12 @@
 ---
-title: Project Threads
-subtitle: subtitle lorem ipsum dolor sit amet consectetur.
+title: Personalised patient portal
+subtitle: Access and understand health data in a smart way.
 image: assets/img/portfolio/portal.png
 alt: Shirts on a hanger
 
 caption:
   title: Patient Portal
-  subtitle: Personlised patient portal for improving stroke survivor outcomes
+  subtitle: Personlised patient portal for improving stroke survivor outcomes.
   thumbnail: assets/img/portfolio/p2-thumbnail.jpg
 ---
 Patient portals have received widespread support from policymakers and healthcare organisations as part of the 
