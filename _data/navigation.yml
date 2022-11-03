@@ -12,11 +12,11 @@
 en: &DEFAULT_EN
   nav:
     - title: "Stroke"
-      section: Stroke
+      section: stroke
     - title: "Portfolio"
       section: portfolio
-    - title: "About"
-      section: about
+    - title: "Aim"
+      section: aim
     - title: "Timeline"
       section: timeline
     - title: "Team"
