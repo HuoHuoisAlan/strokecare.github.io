@@ -23,13 +23,13 @@ en: &DEFAULT_EN
     list:
       - title: "[Leading Cause of Death](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)"
         desc: "Stroke is the fourth leading cause of death in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to £75bn within 20 years."
-        icon: fa-solid fa-brain #find more at https://fontawesome.com/icons
+        icon: fas fa-brain #find more at https://fontawesome.com/icons    <i class="fas fa-brain"></i>
       - title: "[Growing Patients](https://www.stroke.org.uk/what-is-stroke/stroke-statistics)"
         desc: "100,000 people have strokes each year in the UK.  The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years."
-        icon: fa-solid fa-bed
+        icon: fas fa-bed
       - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
         desc: "Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their decision making."
-        icon: fa-solid fa-hand-holding-medical   
+        icon: fas fa-hand-holding-medical   
         
   portfolio:
     title: "About Us"
