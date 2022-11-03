@@ -1,6 +1,6 @@
 ---
-title: Stroke Analytics Dashboard (SAND)
-subtitle: 
+title: Stroke Analytics Dashboard
+subtitle: data-driven decision making in healthcare.
 image: assets/img/portfolio/02-thumbnail.jpg
 alt: analytics dashboard for data-driven decision making
 
