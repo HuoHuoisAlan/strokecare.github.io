@@ -5,7 +5,7 @@ image: assets/img/portfolio/02-thumbnail.jpg
 alt: Keep Exploring
 
 caption:
-  title: Stroke Analytics Dashboard
+  title: Analytics Dashboard
   subtitle: Data-driven decision making support for health providers.
   thumbnail: assets/img/portfolio/p1-thumbnail.jpg
 ---
