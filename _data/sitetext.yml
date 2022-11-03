@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         alt:
       - title: "Jekyll Theme is created"
         year: "2019"
-        desc: "[Ravi Riley converted Agency](/assets/caregiverneedtoknow.pdf), a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
         image: assets/img/timeline/3.jpg
         alt: image alt text
       - title: "Title"
