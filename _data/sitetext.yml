@@ -16,7 +16,7 @@ en: &DEFAULT_EN
     button: Tell Me More
     buttonlink: "#stroke"
 
-  stroke:
+  Stroke:
     title: "Stroke is the fourth leading cause of death in the UK"
     text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
     section: stroke
