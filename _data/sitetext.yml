@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "[STROKE](https://strokecare.uk/404) is the fourth leading cause of death in the UK"
+    title: "Stroke is the fourth leading cause of death in the UK"
     text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
     section: services
     list:
@@ -28,7 +28,7 @@ en: &DEFAULT_EN
         desc: "100,000 people have strokes each year in the UK.  The NHS England (NHSE) Long Term Plan is committed to saving 150,000 lives from cardiovascular disease over the next 10 years."
         icon: fas fa-bed
       - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
-        desc: "Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their decision making."
+        desc: "[ClickMe](https://strokecare.uk/404)Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to better inform their decision making."
         icon: fas fa-hand-holding-heart
         
   portfolio:
