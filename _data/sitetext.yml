@@ -87,60 +87,24 @@ en: &DEFAULT_EN
     section: team
     people:
       - name: "Charles Wolfe OBE"
-        role: "[Professor of Public Health (PI)](https://www.kcl.ac.uk/people/charles-wolfe)"
+        role: "Professor of Public Health (PI)"
         image: assets/img/team/charles.webp
-      - name: "[Vasa Curcin](https://www.kcl.ac.uk/people/vasa-curcin)"
+      - name: "Vasa Curcin"
         role: "Head of Department, Population Health Sciences (co-PI)"
-        image: assets/img/team/vasa.webp
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Iain Marshall](https://www.kcl.ac.uk/people/iain-marshall)"
+        image: assets/img/team/vasa.jpeg
+      - name: "Iain Marshall"
         role: "Clinical Senior Lecturer in Population Health Sciences (co-PI)"
         image: assets/img/team/lain.webp
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Timothy Neate](https://www.kcl.ac.uk/people/timothy-neate)"
+      - name: "Timothy Neate"
         role: "Lecturer in Computer Science"
         image: assets/img/team/tim.webp
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Martin Chapman](https://www.kcl.ac.uk/people/martin-chapman#:~:text=Dr%20Martin%20Chapman%20is%20a,computable%2C%20multi%2Dplatform%20phenotypes.)"
+      - name: "Martin Chapman"
         role: "Lecturer in Health Informatics"
         image: assets/img/team/martin.webp
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Zhiqiang Huo](https://www.kcl.ac.uk/people/zhiqiang-huo)"
+      - name: "Zhiqiang Huo"
         role: "Research Associate"
         image: assets/img/team/zhiqiang.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
         
-
   contact:
     title: "Contact Us"
     text: "If you have any questions, please leave us a message. We will contact you soon."
