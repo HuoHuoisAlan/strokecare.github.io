@@ -68,22 +68,22 @@ en: &DEFAULT_EN
   clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "yes" #"yes/no"
+    horizontal-scrolling: "no" #"yes/no"
     list:
-      - title: "envato"
+      - title: "KCL"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/KCL.png
-      - title: "designmodo"
+      - title: "NIHR"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/nihr.png
-      - title: "themeforest"
+      - title: "NIHR GUYS and ST Thomas"
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/nihrguys.jpg
 
   team:
     title: "MEET THE TEAM"
-    text: "More team members can be found from **[RESEARCH TEAM](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)**"
-    subtext: This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339). We thank authors who contribute to this [web theme](https://github.com/raviriley/agency-jekyll-theme).
+    text: ""
+    subtext: This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339). We thank authors who contribute to this [web theme and resources](https://github.com/raviriley/agency-jekyll-theme).
     section: team
     people:
       - name: "Charles Wolfe OBE"
