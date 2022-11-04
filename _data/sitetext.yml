@@ -76,9 +76,10 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "our story"
+    text: "Improve the lives of stroke survivors using data."
     body: "Multidisciplinary teams consisting of individuals drawn from different disciplines who come together to achieve a common goal. 
-           Centre to our approach is engagement with stakeholders from stroke survivors and clinicians to local and national policymakers, providing a pathway to translate research findings into patient benefit."
+           Centre to our approach is engagement with stakeholders from "stroke survivors" and "clinicians" to local and national "policymakers", providing a pathway to translate research findings into patient benefit.
+           > This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339)"
     section: about
 
   clients:
