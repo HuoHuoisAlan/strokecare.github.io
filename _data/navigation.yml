@@ -21,8 +21,6 @@ en: &DEFAULT_EN
       section: timeline
     - title: "Team"
       section: team
-    - title: "Publication"
-      url: https://strokecare.com/publication
     - title: "Contact"
       section: contact
     - title: "Theme Source"
