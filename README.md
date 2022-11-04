@@ -11,3 +11,4 @@ Please visit our website: http://strokecare.uk
 >[Agency Jekyll Theme](https://github.com/raviriley/agency-jekyll-theme) is the theme we used in our project. We thank authors who contribute this website.
 
 If you have any questions, please contact zhiqiang.huo at kcl.ac.uk.
+Thank you a lot for your attention!
