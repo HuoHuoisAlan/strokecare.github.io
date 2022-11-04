@@ -30,7 +30,7 @@ en: &DEFAULT_EN
       - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
         desc: "Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to **better inform their clinical decision making**."
         icon: fas fa-hand-holding-heart
-
+        
   portfolio:
     title: "Research"
     text: "Unlocking the potential of data - reshaping health and care for stroke survivors with data. We are committed to providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies."
@@ -39,29 +39,29 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "History of Key Reports, Publications, & Actitivies"
     section: timeline
     # left is the default
-    #start_align: "left"
+    # start_align: "left"
     events:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
+      - title: "CHI 2023"
+        year: "Oct. 2022"
+        desc: "A workshop proposal sumitted to *[CHI 2023](https://chi2023.acm.org/)*"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "AMIA Summit"
+        year: "Sept. 2022"
+        desc: "A poster work submitted to *[AMIA 2023 Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)*"
+        image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "TIMELINE"
 
   about:
     title: "About Us"
-    text: "our story"
-    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
+    text: "A group of people with same goal: improving the lives of stroke survivors using data."
+    body: "**[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)** consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from *stroke survivors* and *clinicians* to local and national *policymakers*, providing a pathway to translate research findings into patient benefit."
     section: about
 
   clients:
@@ -74,23 +74,20 @@ en: &DEFAULT_EN
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/designmodo.jpg
+        logo: assets/img/clients/nihr.jpg
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/themeforest.jpg
-      - title: "Creative Market"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/creative-market.jpg
+        logo: assets/img/clients/nihrguys.png
 
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339). We thank authors who contribute to this [web theme](https://github.com/raviriley/agency-jekyll-theme).
     section: team
     people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/500x500.jpg
+      - name: "[Charles Wolfe OBE](https://www.kcl.ac.uk/people/charles-wolfe)"
+        role: "Professor of Public Health (PI)"
+        image: assets/img/team/charles.webp
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -98,9 +95,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
+      - name: "[Vasa Curcin](https://www.kcl.ac.uk/people/vasa-curcin)"
+        role: "Head of Department, Population Health Sciences (co-PI)"
+        image: assets/img/team/vasa.webp
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -108,9 +105,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/500x500.jpg
+      - name: "[Iain Marshall](https://www.kcl.ac.uk/people/iain-marshall)"
+        role: "Clinical Senior Lecturer in Population Health Sciences (co-PI)"
+        image: assets/img/team/lain.webp
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -118,16 +115,47 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
+      - name: "[Timothy Neate](https://www.kcl.ac.uk/people/timothy-neate)"
+        role: "Lecturer in Computer Science"
+        image: assets/img/team/tim.web
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "[Martin Chapman](https://www.kcl.ac.uk/people/martin-chapman#:~:text=Dr%20Martin%20Chapman%20is%20a,computable%2C%20multi%2Dplatform%20phenotypes.)"
+        role: "Lecturer in Health Informatics"
+        image: assets/img/team/martin.webp
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+      - name: "[Zhiqiang Huo](https://www.kcl.ac.uk/people/zhiqiang-huo)"
+        role: "Research Associate"
+        image: assets/img/team/zhiqiang.jpg
+        social:
+          - url: https://twitter.com
+            icon: fab fa-twitter
+          - url: https://facebook.com
+            icon: fab fa-facebook-f
+          - url: https://linkedin.com
+            icon: fab fa-linkedin-in
+        
 
   contact:
     title: "Contact Us"
-    text: "Lorem ipsum or call 123456789"
+    text: "If you have any questions, please leave us a message. We will contact you soon."
     section: contact
-    name: "Name*"
+    name: "Your Name*"
     name-validation: "Please enter your name."
-    email: "Email*"
+    email: "Your Email*"
     email-validation: "Please enter your email address."
-    phone: "Phone Number"
+    phone: "Your Phone Number"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
@@ -244,7 +272,7 @@ es: &DEFAULT_ES
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+    subtext: This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339).
     section: equipo
     people:
       - name: "Kay Garland"
