@@ -1,6 +1,6 @@
 # [Stroke Care Project](http://strokecare.uk) 
 
-This project aims to improve the lives of stroke survivors with data.
+This is a research project which aims to improve the lives of stroke survivors with data.
 There are two goals we are focusing on:
 1. We are designing and developing patient portal that will allow patients to better self-manage their health data on a day-to-day basis;
 2. We are trying to offer health providers and policymakers a smart dashboard that can help with ongoing improvements in clinical decision making.
