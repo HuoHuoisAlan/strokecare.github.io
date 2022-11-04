@@ -72,7 +72,10 @@ en: &DEFAULT_EN
     list:
       - title: "KCL"
         url: https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data
-        logo: assets/img/clients/mylogo.png
+        logo: assets/img/clients/KCL.png
+      - title: "NIHR"
+        url: https://www.nihr.ac.uk/
+        logo: assets/img/clients/nihr.jpg
   team:
     title: "MEET THE TEAM"
     text: ""
