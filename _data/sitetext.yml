@@ -76,8 +76,8 @@ en: &DEFAULT_EN
 
   about:
     title: "About Us"
-    text: "Improve the lives of stroke survivors using data."
-    body: "*[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)* consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from **stroke survivors** and **clinicians** to local and national **policymakers**, providing a pathway to translate research findings into patient benefit."
+    text: "Different people, Same Goal: improving the lives of stroke survivors using data."
+    body: "**[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)** consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from *stroke survivors* and *clinicians* to local and national *policymakers*, providing a pathway to translate research findings into patient benefit."
     section: about
 
   clients:
