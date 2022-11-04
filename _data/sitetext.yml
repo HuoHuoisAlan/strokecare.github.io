@@ -47,12 +47,12 @@ en: &DEFAULT_EN
      
       - title: "CHI 2023"
         year: "Oct. 2022"
-        desc: "A workshop proposal sumitted to [CHI 2023](https://chi2023.acm.org/)"
+        desc: "A workshop proposal sumitted to *[CHI 2023](https://chi2023.acm.org/)*"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "AMIA Summit"
         year: "Sept. 2022"
-        desc: "A poster work submitted to [AMIA 2023 Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)"
+        desc: "A poster work submitted to *[AMIA 2023 Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)*"
         image: assets/img/timeline/1.jpg
         alt:
         # you can enforce the alignment
