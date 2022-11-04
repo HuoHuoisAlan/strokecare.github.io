@@ -11,9 +11,9 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Stroke Care!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to Stroke Care Research Project!
+    text: Improving the lives of stroke survivors with data
+    button: TELL ME MORE
     buttonlink: "#services"
 
   services:
@@ -32,8 +32,8 @@ en: &DEFAULT_EN
         icon: fas fa-hand-holding-heart
 
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Research"
+    text: "Unlocking the potential of data - reshaping health and care for stroke survivors with data. We are committed to providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies."
     section: portfolio
     closebutton: "Close Project"
 
