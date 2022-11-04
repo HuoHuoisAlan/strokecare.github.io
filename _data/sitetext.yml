@@ -21,7 +21,7 @@ en: &DEFAULT_EN
     text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
     section: services
     list:
-      - title: "[Leading Cause of Death](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)"
+      - title: "[Leading Cause of Death](https://healthtalk.org/stroke/major-disability-after-a-stroke)"
         desc: "Stroke is the fourth **leading cause of death** in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to **£75bn within 20 years**."
         icon: fas fa-brain #find more at https://fontawesome.com/icons    <i class="fas fa-brain"></i>
       - title: "[Growing Patients](https://www.stroke.org.uk/what-is-stroke/stroke-statistics)"
@@ -77,7 +77,7 @@ en: &DEFAULT_EN
   about:
     title: "About Us"
     text: "Improve the lives of stroke survivors using data."
-    body: "*[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data) consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from **stroke survivors** and **clinicians** to local and national **policymakers**, providing a pathway to translate research findings into patient benefit."
+    body: "*[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)* consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from **stroke survivors** and **clinicians** to local and national **policymakers**, providing a pathway to translate research findings into patient benefit."
     section: about
 
   clients:
