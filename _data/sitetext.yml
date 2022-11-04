@@ -72,13 +72,13 @@ en: &DEFAULT_EN
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/envato.jpg
+        logo: assets/img/clients/KCL.png
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/nihr.jpg
+        logo: assets/img/clients/nihr.png
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/nihrguys.png
+        logo: assets/img/clients/nihrguys.jpg
 
   team:
     title: "MEET THE TEAM"
