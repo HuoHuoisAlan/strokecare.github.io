@@ -25,6 +25,8 @@ en: &DEFAULT_EN
       section: contact
     - title: "Publication"
       url: http://strokecare.uk/publication
+    - title: "MyNewPage"
+      url: http://strokecare.uk/publication
 en-US:
   <<: *DEFAULT_EN
 en-CA:
