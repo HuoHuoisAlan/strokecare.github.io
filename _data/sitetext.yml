@@ -11,61 +11,70 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Stroke Care Research Project!
-    text: Improving the lives of stroke survivors with data
-    button: TELL ME MORE
+    title: Welcome to Stroke Care!
+    text: It's Nice To Meet You
+    button: Tell Me More
     buttonlink: "#services"
 
   services:
-    title: "Stroke is the fourth leading cause of death in the UK"
-    text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
+    title: "Services"
+    text: "Lorem ipsum"
     section: services
     list:
-      - title: "[Leading Cause of Death](https://healthtalk.org/stroke/major-disability-after-a-stroke)"
-        desc: "Stroke is the fourth **leading cause of death** in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to **£75bn within 20 years**."
-        icon: fas fa-brain #find more at https://fontawesome.com/icons    <i class="fas fa-brain"></i>
-      - title: "[Growing Patients](https://www.stroke.org.uk/what-is-stroke/stroke-statistics)"
-        desc: "**100,000 people** have strokes each year in the UK.  The NHS England (NHSE) Long Term Plan is committed to saving **150,000 lives** from cardiovascular disease over the next 10 years."
-        icon: fas fa-bed
-      - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
-        desc: "Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to **better inform their clinical decision making**."
-        icon: fas fa-hand-holding-heart
-        
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"  
+        icon: fab fa-markdown
+
   portfolio:
-    title: "Research"
-    text: "Unlocking the potential of data - reshaping health and care for stroke survivors with data. We are committed to providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies."
+    title: "Portfolio"
+    text: "Lorem ipsum dolor sit amet consectetur."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "History of Key Reports, Publications, & Actitivies"
+    text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
-    # start_align: "left"
+    #start_align: "left"
     events:
-     
-      - title: "CHI 2023"
-        year: "Oct. 2022"
-        desc: "A workshop proposal sumitted to *[CHI 2023](https://chi2023.acm.org/)*"
-        image: [assets/img/timeline/2.jpg](https://chi2023.acm.org/)
-        alt:
-      - title: "AMIA Summit"
-        year: "Sept. 2022"
-        desc: "A poster work submitted to *[AMIA 2023 Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)*"
+      - title: "Our Humble Beginnings"
+        year: "2009-2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
         image: assets/img/timeline/1.jpg
+        alt:
+      - title: "An Agency is Born"
+        year: "March 2011"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+        image: assets/img/timeline/2.jpg
+        alt:
+      - title: "Jekyll Theme is created"
+        year: "2019"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Title"
+        year: "2009-2011"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "TIMELINE"
+    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
-    text: "A group of people with same goal: improving the lives of stroke survivors using data."
-    body: "**[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)** consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from *stroke survivors* and *clinicians* to local and national *policymakers*, providing a pathway to translate research findings into patient benefit."
+    text: "our story"
+    body: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported."
     section: about
 
-    clients:
+  clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -119,16 +128,16 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-        
+
   contact:
     title: "Contact Us"
-    text: "If you have any questions, please leave us a message. We will contact you soon."
+    text: "Lorem ipsum or call 123456789"
     section: contact
-    name: "Your Name*"
+    name: "Name*"
     name-validation: "Please enter your name."
-    email: "Your Email*"
+    email: "Email*"
     email-validation: "Please enter your email address."
-    phone: "Your Phone Number"
+    phone: "Phone Number"
     phone-validation: "Please enter your phone number."
     message: "Message*"
     message-validation: "Please enter a message."
@@ -245,7 +254,7 @@ es: &DEFAULT_ES
   team:
     title: "NUESTRO INCREÍBLE EQUIPO"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339).
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: equipo
     people:
       - name: "Kay Garland"
