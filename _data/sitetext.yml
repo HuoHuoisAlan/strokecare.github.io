@@ -65,7 +65,7 @@ en: &DEFAULT_EN
     body: "**[Multidisciplinary teams](https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data)** consisting of individuals drawn from different disciplines who come together to achieve a common goal. Centre to our approach is engagement with stakeholders from *stroke survivors* and *clinicians* to local and national *policymakers*, providing a pathway to translate research findings into patient benefit."
     section: about
 
-  clients:
+    clients:
     section: clients
     max-height: 100px
     horizontal-scrolling: "" #"yes/no"
@@ -75,10 +75,13 @@ en: &DEFAULT_EN
         logo: assets/img/clients/envato.jpg
       - title: "designmodo"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/nihr.jpg
+        logo: assets/img/clients/designmodo.jpg
       - title: "themeforest"
         url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/nihrguys.png
+        logo: assets/img/clients/themeforest.jpg
+      - title: "Creative Market"
+        url: https://github.com/raviriley/agency-jekyll-theme
+        logo: assets/img/clients/creative-market.jpg
 
   team:
     title: "OUR AMAZING TEAM"
