@@ -39,7 +39,7 @@ en: &DEFAULT_EN
 
   timeline:
     title: "Timeline"
-    text: "Key Reports, Publications, & Actitivies"
+    text: "History of Key Reports, Publications, & Actitivies"
     section: timeline
     # left is the default
     # start_align: "left"
@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: left
-    end: "TIME"
+    end: "TIMELINE"
 
   about:
     title: "About Us"
