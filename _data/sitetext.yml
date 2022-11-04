@@ -17,7 +17,7 @@ en: &DEFAULT_EN
     buttonlink: "#services"
 
   services:
-    title: "Stroke is the fourth leading cause of death in the UK"
+    title: "Ongoing Care for Stroke Survivors"
     text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
     section: services
     list:
