@@ -37,26 +37,26 @@ en: &DEFAULT_EN
     section: portfolio
     closebutton: "Close Project"
 
-    timeline:
+  timeline:
     title: "Timeline"
-    text: "History of Key Reports, Publications, & Actitivies"
+    text: "Lorem ipsum timeline"
     section: timeline
     # left is the default
-    # start_align: "left"
+    #start_align: "left"
     events:
-      - title: "CHI 2023"
-        year: "Oct. 2022"
-        desc: "A workshop proposal sumitted to *[CHI 2023](https://chi2023.acm.org/)*"
-        image: [assets/img/timeline/2.jpg](https://chi2023.acm.org/)
-        alt:
-      - title: "AMIA Summit"
-        year: "Sept. 2022"
-        desc: "A poster work submitted to *[AMIA 2023 Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)*"
-        image: assets/img/timeline/1.jpg
+      - title: "Jekyll Theme is created"
+        year: "2019"
+        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
+        image: assets/img/timeline/3.jpg
+        alt: image alt text
+      - title: "Title"
+        year: "2009-2011"
+        desc: "Your description here, **Markdown** is fully supported."
+        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "TIMELINE"
+    end: "Be Part <br> of Our <br> Story!"
 
   about:
     title: "About Us"
