@@ -88,6 +88,7 @@ en: &DEFAULT_EN
     people:
       - name: "Charles Wolfe OBE"
         role: "Professor of Public Health (PI)"
+        url: http://zqhuo.com
         image: assets/img/team/charles.webp
       - name: "Vasa Curcin"
         role: "Head of Department, Population Health Sciences (co-PI)"
