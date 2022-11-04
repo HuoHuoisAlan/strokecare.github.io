@@ -11,62 +11,53 @@
 # -----------------
 en: &DEFAULT_EN
   header:
-    title: Welcome to Stroke Care!
-    text: It's Nice To Meet You
-    button: Tell Me More
+    title: Welcome to Stroke Care Research Project!
+    text: Improving the lives of stroke survivors with data
+    button: TELL ME MORE
     buttonlink: "#services"
 
   services:
-    title: "Services"
-    text: "Lorem ipsum"
+    title: "Stroke is the fourth leading cause of death in the UK"
+    text: "What is Stroke? Why we need give more cares to Stroke Survivors?"
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"  
-        icon: fab fa-markdown
-
+      - title: "[Leading Cause of Death](https://healthtalk.org/stroke/major-disability-after-a-stroke)"
+        desc: "Stroke is the fourth **leading cause of death** in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to **£75bn within 20 years**."
+        icon: fas fa-brain #find more at https://fontawesome.com/icons    <i class="fas fa-brain"></i>
+      - title: "[Growing Patients](https://www.stroke.org.uk/what-is-stroke/stroke-statistics)"
+        desc: "**100,000 people** have strokes each year in the UK.  The NHS England (NHSE) Long Term Plan is committed to saving **150,000 lives** from cardiovascular disease over the next 10 years."
+        icon: fas fa-bed
+      - title: "[Stroke Care](https://openresearch.nihr.ac.uk/articles/2-43)"
+        desc: "Stroke survivors, clinicians, and policymakers have consistently called for better quality data on the long-term consequences of stroke, to **better inform their clinical decision making**."
+        icon: fas fa-hand-holding-heart
+        
   portfolio:
-    title: "Portfolio"
-    text: "Lorem ipsum dolor sit amet consectetur."
+    title: "Research"
+    text: "Unlocking the potential of data - reshaping health and care for stroke survivors with data. We are committed to providing data-driven solutions for stroke patients, health providers, researchers and policymakers, with an improved understanding of patient-centred health data and the use of cut-edging data analytics such as statistics, data mining, and AI technologies."
     section: portfolio
     closebutton: "Close Project"
 
   timeline:
     title: "Timeline"
-    text: "Lorem ipsum timeline"
+    text: "History of Key Reports, Publications, & Actitivies"
     section: timeline
     # left is the default
-    #start_align: "left"
+    # start_align: "left"
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
+     
+      - title: "CHI 2023"
+        year: "Oct. 2022"
+        desc: "A workshop proposal sumitted to *[CHI 2023](https://chi2023.acm.org/)*"
+        image: [assets/img/timeline/2.jpg](https://chi2023.acm.org/)
+        alt:
+      - title: "AMIA Summit"
+        year: "Sept. 2022"
+        desc: "A poster work submitted to *[AMIA 2023 Informatics Summit](https://amia.org/education-events/amia-2023-informatics-summit)*"
         image: assets/img/timeline/1.jpg
-        alt:
-      - title: "An Agency is Born"
-        year: "March 2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/2.jpg
-        alt:
-      - title: "Jekyll Theme is created"
-        year: "2019"
-        desc: "Ravi Riley converted Agency, a Bootstrap-based theme, into a Jekyll theme. The Jekyll theme can be installed as a Ruby gem, or remotely. For more information, visit the documentation."
-        image: assets/img/timeline/3.jpg
-        alt: image alt text
-      - title: "Title"
-        year: "2009-2011"
-        desc: "Your description here, **Markdown** is fully supported."
-        image: assets/img/timeline/4.jpg
         alt:
         # you can enforce the alignment
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "TIMELINE"
 
   about:
     title: "About Us"
