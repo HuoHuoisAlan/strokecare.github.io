@@ -71,15 +71,8 @@ en: &DEFAULT_EN
     horizontal-scrolling: "no" #"yes/no"
     list:
       - title: "KCL"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/KCL.png
-      - title: "NIHR"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/nihr.png
-      - title: "NIHR GUYS and ST Thomas"
-        url: https://github.com/raviriley/agency-jekyll-theme
-        logo: assets/img/clients/nihrguys.jpg
-
+        url: https://www.kcl.ac.uk/research/improving-the-lives-of-stroke-survivors-with-data
+        logo: assets/img/clients/mylogo.png
   team:
     title: "MEET THE TEAM"
     text: ""
