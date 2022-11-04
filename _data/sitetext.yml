@@ -83,12 +83,12 @@ en: &DEFAULT_EN
   team:
     title: "OUR AMAZING TEAM"
     text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: This study/project is funded by the National Institute for Health and Care Research (NIHR) under its Programme Grants for Applied Research Programme (NIHR202339). We thank authors who contribute to this [web theme](https://github.com/raviriley/agency-jekyll-theme).
+    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
     section: team
     people:
-      - name: "[Charles Wolfe OBE](https://www.kcl.ac.uk/people/charles-wolfe)"
-        role: "Professor of Public Health (PI)"
-        image: assets/img/team/charles.webp
+      - name: "Kay Garland"
+        role: "Lead Designer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -96,9 +96,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "[Vasa Curcin](https://www.kcl.ac.uk/people/vasa-curcin)"
-        role: "Head of Department, Population Health Sciences (co-PI)"
-        image: assets/img/team/vasa.webp
+      - name: "Larry Parker"
+        role: "Lead Marketer"
+        image: assets/img/team/2.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -106,39 +106,9 @@ en: &DEFAULT_EN
             icon: fab fa-facebook-f
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
-      - name: "[Iain Marshall](https://www.kcl.ac.uk/people/iain-marshall)"
-        role: "Clinical Senior Lecturer in Population Health Sciences (co-PI)"
-        image: assets/img/team/lain.webp
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Timothy Neate](https://www.kcl.ac.uk/people/timothy-neate)"
-        role: "Lecturer in Computer Science"
-        image: assets/img/team/tim.web
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Martin Chapman](https://www.kcl.ac.uk/people/martin-chapman#:~:text=Dr%20Martin%20Chapman%20is%20a,computable%2C%20multi%2Dplatform%20phenotypes.)"
-        role: "Lecturer in Health Informatics"
-        image: assets/img/team/martin.webp
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "[Zhiqiang Huo](https://www.kcl.ac.uk/people/zhiqiang-huo)"
-        role: "Research Associate"
-        image: assets/img/team/zhiqiang.jpg
+      - name: "Diana Perterson"
+        role: "Lead Developer"
+        image: assets/img/team/500x500.jpg
         social:
           - url: https://twitter.com
             icon: fab fa-twitter
@@ -147,7 +117,6 @@ en: &DEFAULT_EN
           - url: https://linkedin.com
             icon: fab fa-linkedin-in
         
-
   contact:
     title: "Contact Us"
     text: "If you have any questions, please leave us a message. We will contact you soon."
