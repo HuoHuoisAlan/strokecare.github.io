@@ -104,6 +104,10 @@ en: &DEFAULT_EN
       - name: "[Martin Chapman](https://www.kcl.ac.uk/people/martin-chapman#:~:text=Dr%20Martin%20Chapman%20is%20a,computable%2C%20multi%2Dplatform%20phenotypes.)"
         role: "Lecturer in Health Informatics"
         image: assets/img/team/martin.webp
+      - name: "[Zhiqiang Huo](https://www.kcl.ac.uk/people/zhiqiang-huo)"
+        role: "Research Associate"
+        image: assets/img/team/zhiqiang.jpg
+        
         
 
   contact:
