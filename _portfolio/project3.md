@@ -6,7 +6,7 @@ alt:
 
 caption:
   title: Empower data-driven decisions
-  subtitle: Implementation and Evaluation
+  subtitle: Implementation, Evaluation & ongoing improvement
   thumbnail: assets/img/portfolio/p3-thumbnail.jpg
 ---
 
