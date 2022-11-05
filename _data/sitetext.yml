@@ -23,7 +23,7 @@ en: &DEFAULT_EN
     list:
       - title: "[Leading Cause of Death](https://healthtalk.org/stroke/major-disability-after-a-stroke)"
         desc: "Stroke is the fourth **leading cause of death** in the UK and single largest cause of complex disability in adults, with annual costs projected to rise to **£75bn within 20 years**."
-        icon: fas fa-brain #find more at https://fontawesome.com/icons    <i class="fas fa-brain"></i>
+        icon: fas fa-brain #find more at https://fontawesome.com/icons  
       - title: "[Growing Patients](https://www.stroke.org.uk/what-is-stroke/stroke-statistics)"
         desc: "**100,000 people** have strokes each year in the UK.  The NHS England (NHSE) Long Term Plan is committed to saving **150,000 lives** from cardiovascular disease over the next 10 years."
         icon: fas fa-bed
@@ -100,7 +100,9 @@ en: &DEFAULT_EN
       - name: "Zhiqiang Huo"
         role: "Research Associate"
         image: assets/img/team/zhiqiang.jpg
-        url: https://www.nihr.ac.uk/
+        social:
+          - url: http://zqhuo.com
+            icon: fas fa-address-card
         
   contact:
     title: "Contact Us"
