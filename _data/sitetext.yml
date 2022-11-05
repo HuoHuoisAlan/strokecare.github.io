@@ -97,7 +97,7 @@ en: &DEFAULT_EN
       - name: "Martin Chapman"
         role: "Lecturer in Health Informatics"
         image: assets/img/team/martin.webp
-      - name: "Zhiqiang Huo"
+      - name: [Zhiqiang Huo](http://zqhuo.com)
         role: "Research Associate"
         image: assets/img/team/zhiqiang.jpg
         
