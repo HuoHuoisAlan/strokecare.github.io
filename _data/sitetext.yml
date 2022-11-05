@@ -98,8 +98,9 @@ en: &DEFAULT_EN
         role: "Lecturer in Health Informatics"
         image: assets/img/team/martin.webp
       - name: "Zhiqiang Huo"
-        role: "Research Associate[aaa](www.google.com)"
+        role: "Research Associate"
         image: assets/img/team/zhiqiang.jpg
+        url: https://www.nihr.ac.uk/
         
   contact:
     title: "Contact Us"
