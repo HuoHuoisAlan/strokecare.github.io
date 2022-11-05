@@ -84,10 +84,10 @@ en: &DEFAULT_EN
     people:
       - name: "Charles Wolfe OBE"
         role: "Professor of Public Health (PI)"
-        social:
-          - url:https://www.kcl.ac.uk/people/charles-wolfe
-            icon: fas fa-address-card
         image: assets/img/team/charles.webp
+        social:
+          - url: https://www.kcl.ac.uk/people/charles-wolfe
+            icon: fas fa-address-card
       - name: "Vasa Curcin"
         role: "Head of Department, Population Health Sciences (co-PI)"
         image: assets/img/team/vasa.jpeg
@@ -110,7 +110,7 @@ en: &DEFAULT_EN
         role: "Lecturer in Health Informatics"
         image: assets/img/team/martin.webp
         social:
-          - url: https://www.kcl.ac.uk/people/martin-chapman#:~:text=Dr%20Martin%20Chapman%20is%20a,computable%2C%20multi%2Dplatform%20phenotypes.
+          - url: https://www.kcl.ac.uk/people/martin-chapman#:~:text=Dr%20Martin%20Chapman%20is%20a,computable%2C%20multi%2Dplatform%20phenotypes
             icon: fas fa-address-card
       - name: "Zhiqiang Huo"
         role: "Research Associate"
