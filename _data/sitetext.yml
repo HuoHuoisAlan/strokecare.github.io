@@ -57,7 +57,7 @@ en: &DEFAULT_EN
         alt:
         # you can enforce the alignment
         align: right
-    end: "            MILESTONE"
+    end: "MILESTONE"
 
   about:
     title: "About Us"
@@ -97,7 +97,7 @@ en: &DEFAULT_EN
       - name: "Martin Chapman"
         role: "Lecturer in Health Informatics"
         image: assets/img/team/martin.webp
-      - name: [Zhiqiang Huo](http://zqhuo.com)
+      - name: "Zhiqiang Huo"
         role: "Research Associate"
         image: assets/img/team/zhiqiang.jpg
         
