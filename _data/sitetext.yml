@@ -102,7 +102,7 @@ en: &DEFAULT_EN
             icon: fas fa-address-card
       - name: "Timothy Neate"
         role: "Lecturer in Computer Science"
-        image: assets/img/team/tim.webp
+        image: assets/img/team/tim.jpg
         social:
           - url: https://www.kcl.ac.uk/people/timothy-neate
             icon: fas fa-address-card
