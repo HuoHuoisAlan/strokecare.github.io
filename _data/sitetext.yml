@@ -12,7 +12,7 @@
 en: &DEFAULT_EN
   header:
     title: Welcome to Stroke Care Research Project!
-    text: Empowering patients to access and manage Personal Health Records!
+    text: Empowering patients to access Personal health data!
     button: TELL ME MORE
     buttonlink: "#services"
 
