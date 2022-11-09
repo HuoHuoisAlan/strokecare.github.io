@@ -118,6 +118,12 @@ en: &DEFAULT_EN
         social:
           - url: http://zqhuo.com
             icon: fas fa-address-card
+      - name: "Davide Ferrari"
+        role: "Research Student"
+        image: assets/img/team/davide.jpg
+        social:
+          - url: https://kclpure.kcl.ac.uk/portal/en/persons/davide-ferrari(e044a041-ab14-491f-a9a3-a3f2fd6f6946).html
+            icon: fas fa-address-card
         
   contact:
     title: "Contact Us"
