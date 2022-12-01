@@ -47,7 +47,7 @@ en: &DEFAULT_EN
      
       - title: "CHI 2023"
         year: "Oct. 2022"
-        desc: "A workshop proposal sumitted to **[CHI 2023](https://chi2023.acm.org/)**"
+        desc: "Our Workshop was accepted by **[CHI 2023](https://chi2023.acm.org/)**"
         image: assets/img/timeline/2.jpg
         alt:
       - title: "AMIA Summit"
